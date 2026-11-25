@@ -20,7 +20,10 @@ the agent admitting its own blindness, not posing as a human
 engineer; (5) it is tight and scannable at 148 characters,
 every word earning its place. At 148 characters it also stays
 well inside the 160-character gate, and a shorter text wins an
-exact tie on Judge win rate.
+exact tie on Judge win rate. The line was drafted against the
+field's strongest entries (which also name the monitoring
+recursion) and kept only what they lack: no invented cause,
+no ETA, and the agent's own voice admitting it writes blind.
 """
 
 import os
